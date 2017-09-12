@@ -1,0 +1,2 @@
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at aom.rf.io.Exp.main(Exp.java:11)
