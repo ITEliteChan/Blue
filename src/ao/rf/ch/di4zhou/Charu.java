@@ -36,6 +36,5 @@ public class Charu {
 				System.out.print(arr[a] + "}");
 			}
 		}
-		
-	}
+	}	
 }
